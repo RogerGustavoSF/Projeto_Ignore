@@ -1,8 +1,10 @@
 # Compiled class file
 *.class
+ignorado.class
 
 # Log file
 *.log
+ignorado.log
 
 # BlueJ files
 *.ctxt
