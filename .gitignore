@@ -12,6 +12,9 @@ ignorado.log
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Ignorar uma pasta
+logs/
+
 # Package Files #
 *.jar
 *.war
